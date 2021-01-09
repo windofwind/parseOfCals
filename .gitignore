@@ -290,6 +290,7 @@ $RECYCLE.BIN/
 ### yarn ###
 # https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
 
+yarn.lock
 .yarn/*
 !.yarn/releases
 !.yarn/plugins
